@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="82" viewBox="0 0 101 82">
+  <g id="ic_bullet_6" transform="translate(-171 -1990)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(171 1990)" fill="none" stroke="#c8103d" stroke-width="10">
+      <circle cx="41" cy="41" r="41" stroke="none"/>
+      <circle cx="41" cy="41" r="36" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(212 2012)" fill="none" stroke="#fff" stroke-width="10">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="25" fill="none"/>
+    </g>
+  </g>
+</svg>

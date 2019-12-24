@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103.426" height="71.393" viewBox="0 0 103.426 71.393">
+  <g id="logo_primary" transform="translate(3.146 2.074)">
+    <path id="Path_1" data-name="Path 1" d="M318.329,145.335v.025l-47.9,6.309,14.738,7.218L279.6,172.253l40.928-22.436" transform="translate(-270.433 -105.005)" fill="#4c4570" stroke="#000" stroke-miterlimit="10" stroke-width="1.843"/>
+    <path id="Path_2" data-name="Path 2" d="M351.314,81.278l12.321,20.069,23.519,1.224-15.278,17.92,6.1,22.746-21.762-8.992-19.751,12.832L338.3,123.6l-18.312-14.814,22.9-5.518Z" transform="translate(-288.787 -81.278)" fill="#4c4570" stroke="#000" stroke-miterlimit="10" stroke-width="1.843"/>
+    <path id="Path_3" data-name="Path 3" d="M359.458,101.683l7.763,12.645,14.82.771-9.626,11.291,3.843,14.331-13.711-5.665L350.1,143.142l1.152-14.793-11.538-9.334,14.429-3.477Z" transform="translate(-296.096 -88.836)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="1.843"/>
+    <path id="Path_4" data-name="Path 4" d="M342.038,146.285l7.252-1.16.524.838.52,2.061-.916.2-4.835,2.192Z" transform="translate(-296.956 -104.927)" fill="#574d7a"/>
+    <text id="SE" transform="translate(55.113 39.788)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">SE</tspan></text>
+  </g>
+</svg>
